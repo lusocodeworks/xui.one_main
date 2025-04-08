@@ -15,15 +15,13 @@ Este script funciona no Ubuntu e provavelmente noutras distribuições da mesma 
 > <b>Script crack automate Xui.One</b>
 
 > [!TIP]
-> **Instalação**
-> 
-> 1. `apt-get install git -y`  
-> 2. `git clone https://github.com/lusocodeworks/xui.one_main`  
-> 3. `cd xui.one_main`  
-> 4. `chmod +x install.sh`  
-> 5. `./install.sh`
-
----
+   > **Installing**
+   >
+   > 1. apt-get install git -y
+   > 2. git clone https://github.com/lusocodeworks/xui.one_main
+   > 3. cd xui.one_main
+   > 4. chmod +x install.sh
+   > 5. ./install.sh
 
 Se quiser posso ajudar a criar uma versão `.md` ou `.txt` com essa tradução também.
 
