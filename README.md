@@ -11,11 +11,10 @@ Este script funciona no Ubuntu e provavelmente noutras distribuições da mesma 
 ✅ Ubuntu 20</br>  
 ✅ Ubuntu 22</br>  
 ✅ Ubuntu 24</br>
+>[!TIP]
+> <b>Script crack automate Xui.One</b>
 
-> [!DICA]  
-> <b>Script crack automatiza o XUI.One</b>
-
-> [!DICA]  
+> [!TIP]
 > **Instalação**
 > 
 > 1. `apt-get install git -y`  
