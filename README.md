@@ -49,4 +49,5 @@ This script will work on Ubuntu and probably other distros of the same families,
    > 3. cd xui.one_main
    > 4. chmod +x install.sh
    > 5. ./install.sh
+
 📌 Support  @lusocodeWorks - https://x-me.xyz
