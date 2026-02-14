@@ -28,4 +28,3 @@ Este script funciona no Ubuntu e provavelmente noutras distribuições da mesma 
 
 This script will work on Ubuntu and probably other distros of the same families, although no support is offered for them. It isn't bulletproof but it will probably work if you simply want to setup a Xui.one Portal on your Ubuntu box. It has been designed to be as unobtrusive and universal as possible.
 
-📌 Support  @lusocodeWorks 
